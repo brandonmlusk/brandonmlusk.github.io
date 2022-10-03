@@ -39,5 +39,5 @@ src="../../assets/img/github.png"
 width="100" />
 </a>
 Some of my side projects, including this website, are hosted on 
-github. Feel free to contribute to anything by opening an issue or submitting a pull request.
+GitHub. Feel free to contribute to anything by opening an issue or submitting a pull request.
 </div>
